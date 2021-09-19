@@ -1,0 +1,146 @@
+.NET Access Custom Assembly2.au3 (527) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  527
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (530) : ==> COM Error intercepted !
+    err.number is:      0x00000003
+    err.windescription: NULL Pointer assignment
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  530
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (534) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  534
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (537) : ==> COM Error intercepted !
+    err.number is:      0x00000003
+    err.windescription: NULL Pointer assignment
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  537
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (541) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  541
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (544) : ==> COM Error intercepted !
+    err.number is:      0x00000003
+    err.windescription: NULL Pointer assignment
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  544
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (559) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  559
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (574) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  574
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (579) : ==> COM Error intercepted !
+    err.number is:      0x00000003
+    err.windescription: NULL Pointer assignment
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  579
+    err.retcode is:     0x00000000
+
+$oAssembly: 0
+.NET Access Custom Assembly2.au3 (10) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  10
+    err.retcode is:     0x00000000
+
+$pAssemblyType = 0x00000000
+.NET Access Custom Assembly2.au3 (13) : ==> COM Error intercepted !
+    err.number is:      0x00000003
+    err.windescription: NULL Pointer assignment
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  13
+    err.retcode is:     0x00000000
+
+IsObj( $oAssemblyType ) = 0
+.NET Access Custom Assembly2.au3 (19) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  19
+    err.retcode is:     0x00000000
+
+.NET Access Custom Assembly2.au3 (21) : ==> COM Error intercepted !
+    err.number is:      0x000000A9
+    err.windescription: Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:      
+    err.helpfile is:    
+    err.helpcontext is:     
+    err.lastdllerror is:    0
+    err.scriptline is:  21
+    err.retcode is:     0x00000000
+ 
